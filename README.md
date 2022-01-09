@@ -17,13 +17,9 @@
 </p>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabakantaro)](https://github.com/anuraghazra/github-readme-stats)
-
  [![trophy](https://github-profile-trophy.vercel.app/?username=sabakantaro&theme=onedark)](https://github.com/sabakantaro/github-profile-trophy)
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabakantaro&theme=vue)
-     
-     <h3 align="center">A passionate frontend developer from India</h3>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabakantaro&theme=vue)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
