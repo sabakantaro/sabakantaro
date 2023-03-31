@@ -2,9 +2,22 @@
   <a href="https://github.com/sabakantaro/sabakantaro/">
     <img src="https://komarev.com/ghpvc/?username=sabakantaro" alt="sabakantaro" />
   </a>
-  <a href="https://twitter.com/ryofitness3">
+<!--   <a href="https://twitter.com/ryofitness3">
     <img height="20" src="https://img.shields.io/twitter/follow/ryofitness3?label=Twitter&logo=twitter&style=flat" />
+  </a> -->
+<!--   <a href="https://github.com/sabakantaro/sabakantaro/network/members">
+    <img src="https://img.shields.io/github/forks/sabakantaro/boditore_prototype" alt="Forks Badge"/>
+  </a> -->
+  <a href="https://github.com/sabakantaro/pulls">
+    <img src="https://img.shields.io/github/issues-pr/sabakantaro/muscle_meets" alt="Pull Requests Badge"/>
   </a>
+  <a href="https://github.com/sabakantaro/issues">
+    <img src="https://img.shields.io/github/issues/sabakantaro/muscle_meets" alt="Issues Badge"/>
+  </a>
+  <a href="https://github.com/sabakantaro/graphs/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sabakantaro/muscle_meets?color=2b9348">
+  </a>
+
 <!--   <a href="https://github.com/sabakantaro">
     <img height="20" src="https://img.shields.io/github/followers/sabakantaro?label=follow&logo=github&style=flat" />
   </a> -->
