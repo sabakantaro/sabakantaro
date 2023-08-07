@@ -1,13 +1,9 @@
+# Welcome to my GitHub profile! 👋
+
 <p align="left"> 
   <a href="https://github.com/sabakantaro/sabakantaro/">
-    <img src="https://komarev.com/ghpvc/?username=sabakantaro" alt="sabakantaro" />
+    <img src="https://komarev.com/ghpvc/?username=sabakantaro" alt="Profile Views" />
   </a>
-<!--   <a href="https://twitter.com/ryofitness3">
-    <img height="20" src="https://img.shields.io/twitter/follow/ryofitness3?label=Twitter&logo=twitter&style=flat" />
-  </a> -->
-<!--   <a href="https://github.com/sabakantaro/sabakantaro/network/members">
-    <img src="https://img.shields.io/github/forks/sabakantaro/boditore_prototype" alt="Forks Badge"/>
-  </a> -->
   <a href="https://github.com/sabakantaro/pulls">
     <img src="https://img.shields.io/github/issues-pr/sabakantaro/muscle_meets" alt="Pull Requests Badge"/>
   </a>
@@ -17,21 +13,41 @@
   <a href="https://github.com/sabakantaro/graphs/contributors">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sabakantaro/muscle_meets?color=2b9348">
   </a>
-
-<!--   <a href="https://github.com/sabakantaro">
-    <img height="20" src="https://img.shields.io/github/followers/sabakantaro?label=follow&logo=github&style=flat" />
-  </a> -->
-<!--   <a href="https://qiita.com/sbkr">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/sbkr/posts.svg" />
-  </a> -->
-<!--   <//qiita.com/sbkr">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/sbkr/contributions.svg" />
-  </a> -->
 </p>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabakantaro)](https://github.com/anuraghazra/github-readme-stats)
- [![trophy](https://github-profile-trophy.vercel.app/?username=sabakantaro&theme=onedark)](https://github.com/sabakantaro/github-profile-trophy)
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabakantaro&theme=vue)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabakantaro)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sabakantaro&theme=onedark)](https://github.com/sabakantaro/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabakantaro&theme=vue)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>　</p
+## About Me 💻
+
+Hi there! I'm Ryosuke, a software engineer with 2+ years of experience in building scalable and high-performance web applications. My GitHub is a showcase of my dedication to coding and continuous learning.
+
+## Skills 🚀
+
+- Frontend Development: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Tailwind CSS, MUI
+- Backend Development: Ruby on Rails, NodeJS, ExpressJS
+- Database: MySQL, PostgreSQL, Redis
+- Cloud Platforms: AWS
+- DevOps: Docker, Nginx, CircleCI, Terraform
+- Mobile App Development: React Native
+- Version Control: Git
+
+## Projects 🛠️
+
+Here are some of the exciting projects I've worked on:
+
+1. [Meatup](https://meatup-4hvw.onrender.com/) - Muscle training social media platform app aimed at people who started muscle training to continue without frustration.<br>
+<em>Tech stacks:</em> Typescript, ReactJS, NextJS, HTML, CSS, Rails, Rspec, PostgreSQL, TailwindCSS, Github Actions
+2. [J-Store](https://j-store-6cm5ttloz-sabakantaro.vercel.app) - Electronic commerce site, able to shop online with payment feature provided by NodeJS and Stripe.<br>
+<em>Tech stacks:</em> HTML, CSS, TypeScript, AngularJS, NodeJS, Stripe
+3. [Gotore](https://github.com/sabakantaro/react_ruby_platform_for_gymgoes) - The social media platform app for gym-goes is aimed at people who want to go to the gym with gym bros.<br>
+<em>Tech stacks:</em> Typescript, ReactJS, NextJS, HTML, Rails, Rspec, MySQL, MUI, Github Actions, Nginx,  AWS, Terraform
+
+## Let's Connect 🤝
+
+I'm always open to networking and discussing exciting opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ryosuke-yano-8b5107229/).
+
+Apart from work, I write my own blog on [DEV community](https://dev.to/ryosuke).
+
+Thank you for visiting my GitHub! I'm looking forward to making a positive impact with my coding skills and collaborating with like-minded developers on innovative projects. Let's build something awesome together! 😄
