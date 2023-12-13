@@ -67,8 +67,10 @@
 
 - 💬 Ask me about anything [here](https://github.com/sabakantaro/sabakantaro/issues)
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabakantaro&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/sabakantaro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabakantaro&layout=compact&theme=jolly&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/sabakantaro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabakantaro&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabakantaro&theme=jolly&layout=compact" height="194"/>
+</a>
 
 <hr>
 
