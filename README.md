@@ -67,7 +67,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/sabakantaro/sabakantaro/issues)
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabakantaro)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/sabakantaro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabakantaro&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabakantaro&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/sabakantaro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabakantaro&layout=compact&theme=jolly&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <hr>
@@ -75,10 +75,10 @@
 **Projects**
 
 <a href="https://github.com/sabakantaro/meatup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sabakantaro&repo=meatup&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sabakantaro&repo=meatup&theme=jolly" />
 </a>
 <a href="https://github.com/sabakantaro/j-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sabakantaro&repo=j-store&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sabakantaro&repo=j-store&theme=jolly" />
 </a>
 
 <hr>
