@@ -59,13 +59,11 @@
 
 **About me**
 
-- 🧑‍💻 Full Stack Developer with 2+ years of experience
+- Cloud/Software Engineer with 4+ years of experience
 
-- 📈 Built a bunch of user-friendly applications
+- Built a bunch of user-friendly applications
 
-- ❤️ Love writing TypeScript, NodeJS, ReactJS, and Ruby
-
-- 💬 Ask me about anything [here](https://github.com/sabakantaro/sabakantaro/issues)
+- AI-Driven, Kubernetes Expert, JS fun (TypeScript, NodeJS, ReactJS)
 
 <a href="https://github.com/sabakantaro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sabakantaro&theme=jolly" />
